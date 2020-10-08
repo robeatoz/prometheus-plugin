@@ -11,6 +11,9 @@ Please note that the documentation is a WIP.
 Currently only metrics from the [Metrics-plugin](https://github.com/jenkinsci/metrics-plugin) and summary of build
 duration of jobs and pipeline stages
 
+## Grafana dashboard
+The [Grafana Dashboard](https://grafana.com/grafana/dashboards/9524) provides some visualizations for the given metrics.
+
 ## Environment variables
 
 `PROMETHEUS_NAMESPACE` Prefix of metric (Default: `default`).
